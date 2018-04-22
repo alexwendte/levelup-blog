@@ -18,8 +18,7 @@
     "import/core-modules": [
         "react",
         "prop-types",
-        "react-helmet",
-        "styled-components"
+        "react-helmet"
       ]
   },
   "globals": {"graphql": true},
